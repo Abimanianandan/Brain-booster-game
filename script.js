@@ -2,22 +2,15 @@
 //! Getting and setting the elements and colors needed
 const boxes = document.querySelector(".boxes");
 const colors = [
-  //  "aqua",
-  //  "red",
-  // "blueviolet",
-  // "chartreuse",
-  // "coral",
-  // "gold",
-  // "maroon",
-  // "hotpink",
-   "abi",
-   "seetha",
-   "sneka",
-   "nanthika",
-   "sneka",
-   "uma",
-   "priyanka",
-   "rose"
+   "aqua",
+   "red",
+  "blueviolet",
+  "chartreuse",
+  "coral",
+  "gold",
+  "maroon",
+  "hotpink",
+   
 ];
 const colorsList = [...colors, ...colors];
 // console.log(imagesList);
